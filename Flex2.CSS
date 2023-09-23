@@ -1,0 +1,44 @@
+.main {
+    background-color: #f7ebaf;
+    width: 750px;
+    height: 500px;
+    margin: 10%;
+    padding: 4%;
+  }
+  .co {
+    background-color: #ffffff;
+    width: 400px;
+    border-radius: 18%;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    padding: 3%;
+  }
+  
+  .zero {
+    display: flex;
+  }
+  
+  .one input {
+    border: none;
+    background-color: #ffffff;
+  }
+  
+  img {
+    width: 78px;
+    height: 76px;
+    border-radius: 40px;
+  }
+  
+  .one {
+    padding: 10px;
+  }
+  
+  hr {
+    width: 400px;
+  }
+  
+  .one label {
+    font-size: large;
+    font-weight: bold;
+  }

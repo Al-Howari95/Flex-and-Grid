@@ -1,0 +1,50 @@
+div {
+    display: flex;
+    background-color: orange;
+    width: 1100px;
+    height: 700px;
+  }
+  .Main {
+    color: white;
+    font-size: 100px;
+    padding: 2%;
+  }
+  .One {
+    background-color: green;
+  }
+  
+  .Tow {
+    background-color: yellow;
+  }
+  
+  .Three {
+    background-color: #9c27b0;
+  }
+  
+  .Four {
+    background-color: gray;
+  }
+  
+  .Five {
+    background-color: blue;
+  }
+  
+  .Six {
+    background-color: gold;
+  }
+  
+  .Seven {
+    background-color: pink;
+  }
+  
+  .Eight {
+    background-color: red;
+  }
+  
+  .Nine {
+    background-color: brown;
+  }
+  
+  * {
+    justify-content: center;
+  }
